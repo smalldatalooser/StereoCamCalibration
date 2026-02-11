@@ -3,6 +3,7 @@ Videos/*
 screenshots/*
 calibration_data/*
 calibration_images/*
+debug/*
 .venv
 .agent
 
